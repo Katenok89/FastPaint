@@ -1,0 +1,2 @@
+# FastPaint
+Fast
